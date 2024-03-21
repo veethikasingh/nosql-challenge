@@ -108,7 +108,12 @@ The first 5 rows of your resulting DataFrame should look something like this:
 
 _id	count
 0	Thanet	1130
+
 1	Greenwich	882
+
 2	Maidstone	713
+
 3	Newham	711
+
 4	Swale	686
+
